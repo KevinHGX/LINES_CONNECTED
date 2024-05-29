@@ -15,6 +15,8 @@ El objetivo principal de este proyecto es profundizar en el uso de SDL2 y mejora
 
 ![Representacion](res/Capture.jpeg)
 
+![Ver Video de demostracion](https://youtu.be/0CKyLDsG9oc?P5XSLJPrQR00rzT)
+
 # <img src="https://raw.githubusercontent.com/SamHerbert/SVG-Loaders/5deed925369e57e9c58ba576ce303466984db501/svg-loaders/bars.svg" width = 20px> Requisitos
 Para ejecutar este proyecto, se necesitan los siguientes requisitos:
 
